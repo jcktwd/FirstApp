@@ -13,7 +13,7 @@
     "bcrypt-nodejs": "0.0.3",
     "express": "^4.16.4",
     "jest": "^23.6.0",
-    "jsonwebtoken": "^8.4.0",
+    "jsonwebtoken": "^9.0.0",
     "node": "^11.6.0"
   },
   "engines": {
